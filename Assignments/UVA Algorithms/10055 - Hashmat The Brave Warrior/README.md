@@ -1,1 +1,15 @@
-# Alexander Dela Cruz
+# 10055- Hashmat The Brave Warrior
+
+## Alexander Dela Cruz 
+
+## Description: 
+Program takes in 2 numbers n1 and n2 and finds outputs the difference between the 2 
+
+### Files 
+
+|   #   | File            | Description                                        | 
+| :---: | --------------- | -------------------------------------------------- |
+| 1 | main.cpp | Program takes in 2 numbers n1 and n2 and finds outputs the difference between the 2 |
+| 2 | input 1 | Example inputs for the program |
+| 3 | output 1 | Example output for the program |
+
