@@ -10,7 +10,7 @@ and shoving it to the front of the stack when it outputs
 
 |   #   | File            |
 | :---: | --------------- | 
-| 1 | [main.cpp](https://github.com/UselessFuwu/4883-Prog-Tech/blob/main/Assignments/UVA%20Algorithms/11988%20-%20Broken%20Keyboard/main.cpp) |
+| 1 | [main.cpp](https://github.com/UselessFuwu/4883-Prog-Tech/tree/main/UVA%20Online%20Judge/11988%20-%20Broken%20Keyboard) |
 
 ## Instructions 
 ### - Use shell cmds to enter an input file and to output files
