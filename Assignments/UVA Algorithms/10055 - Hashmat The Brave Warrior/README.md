@@ -7,9 +7,9 @@ Program takes in 2 numbers n1 and n2 and finds outputs the difference between th
 
 ### Files 
 
-|   #   | File            | Description                                        | 
-| :---: | --------------- | -------------------------------------------------- |
-| 1 | [main.cpp](https://github.com/UselessFuwu/4883-Prog-Tech/blob/main/Assignments/UVA%20Algorithms/10055%20-%20Hashmat%20The%20Brave%20Warrior/main.cpp) | Program takes in 2 numbers n1 and n2 and finds outputs the difference between the 2 |
+|   #   | File            | 
+| :---: | --------------- | 
+| 1 | [main.cpp](https://github.com/UselessFuwu/4883-Prog-Tech/blob/main/Assignments/UVA%20Algorithms/10055%20-%20Hashmat%20The%20Brave%20Warrior/main.cpp) |
 
 ## Instructions 
 ### - Use shell cmds to enter an input file and to output files
