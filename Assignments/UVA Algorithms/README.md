@@ -1,1 +1,6 @@
-# Alexander Dela Cruz 
+# UVA Algorithms 
+
+## Alexander Dela Cruz 
+
+### Algorithm practice using UVA online Judge 
+
