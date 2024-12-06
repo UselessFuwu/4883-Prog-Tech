@@ -6,6 +6,6 @@
 | Folder | Name            |
 | :---: | --------------- |
 |  A05  | [Easy Breezy](https://github.com/UselessFuwu/4883-Prog-Tech/tree/main/Assignment/A05-%20Easy%20Breezy) |
-|  A06  | [Hardwood Sneezy](https://github.com/UselessFuwu/4883-Prog-Tech/tree/main/Assignment/A06-%20Hardwood%20Sneezy)) |
+|  A06  | [Hardwood Sneezy](https://github.com/UselessFuwu/4883-Prog-Tech/tree/main/Assignment/A06-%20Hardwood%20Sneezy) |
 |  A07  | [Priority Queezy]( |
 |  A08  | [Graphin Sleezy]( | 
