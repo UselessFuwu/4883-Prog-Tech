@@ -11,6 +11,5 @@
 | 1281  | [Subtract the Product and Sum of Digits of an Integer](https://github.com/UselessFuwu/4883-Prog-Tech/tree/main/Assignment/A05-%20Easy%20Breezy/P-1281%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) |
 | 1342  | [Number of Steps to Reduce a Number to Zero](https://github.com/UselessFuwu/4883-Prog-Tech/tree/main/Assignment/A05-%20Easy%20Breezy/P-1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) |
 |11988 (UVA) | [Broken Keyboard]()|
-
-
+|10055 (UVA) | [Hashmat The Brave Warrior]()|
 
